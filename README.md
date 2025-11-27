@@ -20,12 +20,12 @@ My journey in computer science is leading me to develop a passion for cybersecur
 
 ## Tools
 
-Python, C/C++
-Git/GitHub 
-VSCode / PyCharm
-Terminal / Linux commands
-Ghidra
-Kali Linux / Ubuntu Linux
+Python, C/C++,
+Git/GitHub, 
+VSCode / PyCharm,
+Terminal / Linux commands,
+Ghidra,
+Kali Linux / Ubuntu Linux,
 WordPress
 
 

@@ -10,7 +10,7 @@ I am a CS student with a profound interest in technology and a dedication to sol
 
 My journey in computer science is leading me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## **Skills**
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +18,7 @@ My journey in computer science is leading me to develop a passion for cybersecur
 | Cybersecurity / Reverse Engineering           | Analyze malware in Ghidra, Vulnerability testing on local apps
 | Web & UI/UX Design                            | Interactive UI components, see bellow for more...
 
-## Tools
+## **Tools**
 
 Python, C/C++,
 Git/GitHub, 
@@ -28,9 +28,8 @@ Ghidra,
 Kali Linux / Ubuntu Linux,
 WordPress
 
-##Projrcts
+## **Associated Project:**
 
-| Associated Project         |
 Designer of the <a href="https://thematrixai.xyz/db">Dashboard</a> ~ https://thematrixai.xyz/ 
 
 Designer of the <a href="https://makjeon.com/services/lms/">Business Product</a> pages ~ https://makjeon.com/

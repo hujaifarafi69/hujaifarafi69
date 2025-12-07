@@ -16,7 +16,7 @@ My journey in computer science is leading me to develop a passion for cybersecur
 |-----------------------------------------------|----------------------------|
 | Programming & Software Development            | Python scripts / small automation tools, Web apps
 | Cybersecurity / Reverse Engineering           | Analyze malware in Ghidra, Vulnerability testing on local apps
-| Web & UI/UX Design                            | Interactive UI components, HTML/CSS redesign of popular websites for practice
+| Web & UI/UX Design                            | Interactive UI components, see bellow for more...
 
 ## Tools
 
@@ -28,5 +28,8 @@ Ghidra,
 Kali Linux / Ubuntu Linux,
 WordPress
 
+##Projrcts
 
-
+| Associated Project         |
+Designer of the <a href="https://thematrixai.xyz/db">Dashboard</a> ~ https://thematrixai.xyz/ 
+Designer of the <a href="https://makjeon.com/services/lms/">Business Product</a> pages ~ https://makjeon.com/

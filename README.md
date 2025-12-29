@@ -35,4 +35,4 @@ Designer of the <a href="https://thematrixai.xyz/db">Dashboard</a> ~ https://the
 Designer of the <a href="https://makjeon.com/services/lms/">Business Product</a> pages ~ https://makjeon.com/
 
 
-Founder of Visuals<a href="https://visuals-bd.web.app">Business Product</a> pages ~ https://makjeon.com/
+Founder of <a href="https://visuals-bd.web.app">Visuals</a> 
